@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BIODATA KETRINA</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class="container">
+            <div class="profile">
+            <img src="1651731487914-1.jpg" alt=""error image">
+            </div>
+            <center>
+            <div class="isi"> 
+            <table border="2" cellpadding="5" cellspacing="10">
+                <tr><td>Nama Lengkap</td><td>: Ketrina Bidadari Pertiwi</td></tr>
+                <tr><td>Nama panggilan</td><td>: Rina</td></tr>
+                <tr><td>NPM</td><td>: 21081010240</td></tr>
+                <tr><td>TTL</td><td>: Surabaya, 9 Januari 2003</td></tr>
+                <tr><td>Agama</td><td>: Islam</td></tr>
+                <tr><td>Telp</td><td>: 081357777606</td></tr>
+                <tr><td>Status</td><td>: Mahasiswa </td></tr>
+                <tr><td>Prodi/Jurusan</td><td>: Ilmu Komputer/Informatika</td></tr>
+                <tr><td>Semester</td><td>: 4</td></tr>
+                <tr><td>Instagram</td><td>: <a href="https://instagram.comm/rinrina9_" target="_blank">rinrina9_</a></td></tr>          
+            </div>
+            </center>
+        </div>
+    </body> 
+</html>
